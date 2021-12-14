@@ -2,7 +2,7 @@
   "name": "vscode-tuya-panel-kit",
   "displayName": "vscode-tuya-panel-kit",
   "description": "tuya-panel-kit extension for vscode",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "icon": "assets/icon.ico",
   "license": "MIT",
   "publisher": "youngjuning",
