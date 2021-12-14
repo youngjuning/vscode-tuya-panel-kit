@@ -4,4 +4,10 @@ tuya-panel-kit extension for vscode
 
 ## Features
 
-![](https://cdn.jsdelivr.net/gh/youngjuning/images/202112141645327.png)
+### 组件文档提示
+
+![](https://cdn.jsdelivr.net/gh/youngjuning/images/202112141730795.png)
+
+### API 文档提示
+
+![](https://cdn.jsdelivr.net/gh/youngjuning/images/202112141731991.png)
