@@ -6,7 +6,7 @@ const DOC = 'https://panel-docs.tuyacn.com/docs';
 const EN_DOC = 'https://panel-docs.tuyacn.com/en/docs';
 
 function provideHover(document: vscode.TextDocument, position: vscode.Position) {
-  if (document.getText().indexOf('tuya-panel-kit')) {
+  if (document.getText().indexOf('tuya-panel-kit') !== -1) {
     const line = document.lineAt(position);
 
     const componentName = line.text.match(/(?<=<)([\w]+)/g)
