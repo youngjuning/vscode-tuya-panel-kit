@@ -1,6 +1,6 @@
 {
   "name": "vscode-tuya-panel-kit",
-  "displayName": "tuya-panel-kit",
+  "displayName": "Tuya Panel Kit",
   "description": "tuya-panel-kit extension for vscode",
   "version": "0.0.4",
   "icon": "assets/icon.ico",
